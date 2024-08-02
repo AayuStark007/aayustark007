@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 
 * 👨‍🎓 Pursuing my Masters in Computer Science at CU Boulder.
 * 👨‍💻 Previously worked at Flipkart, where I worked on systems powering Games, Gamification, and Video Commerce domains.
-* 🚀 Currently contributing to 
 * 🧠 Primarily interested in distributed systems, databases, and systems stuff in general.
 * ⚡ Skilled in Golang, Java, Python, and Kotlin. (Learning more Rust, Scala, and C/C++)
 
